@@ -6,3 +6,4 @@ Men Gitni o'rganyapman
 git log -p " Oxirgi commitni ko'rstadi"
 yangi dars
 
+ishchi maydon
